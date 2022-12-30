@@ -1,0 +1,54 @@
+{
+  "TypeOfRice": [
+    {
+      "name": "Basmati",
+      "Weight": 23,
+      "price": 200
+    },
+    {
+      "name": "Hasma1",
+      "Weight": 21,
+      "price": 120
+    },
+    {
+      "name": "Hasma2",
+      "Weight": 20,
+      "price": 1000
+    }
+  ],
+  "TypeOfWheat": [
+    {
+      "name": "Wheat1",
+      "Weight": 10,
+      "price": 100
+    },
+    {
+      "name": "Wheat2",
+      "Weight": 15,
+      "price": 150
+    },
+    {
+      "name": "Wheat3",
+      "Weight": 20,
+      "price": 200
+    }
+
+  ],
+  "TypeOfPulse": [
+    {
+      "name": "Pulse1",
+      "Weight": 5,
+      "price": 50
+    },
+    {
+      "name": "Pulse2",
+      "Weight": 10,
+      "price": 100
+    },
+    {
+      "name": "Pulse3",
+      "Weight": 15,
+      "price": 150
+    }
+  ]
+}
